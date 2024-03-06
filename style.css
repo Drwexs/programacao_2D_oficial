@@ -1,0 +1,43 @@
+.cabecalho{
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+}
+
+.cabecalho-imagem{
+    width: 20%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    padding: 24px;
+    font-size: 24px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.escola-imagem{
+    width: 25%;
+}
+
+.escola{
+    background-image: linear-gradient(#ffffff, #4e0072);
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.escola-conteudo{
+    width: 35%;
+
+}
+
+.escola-titulo{
+    padding: 24px 0;
+}

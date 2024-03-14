@@ -41,3 +41,17 @@
 .escola-titulo{
     padding: 24px 0;
 }
+
+.personagens-div{
+    text-align: center;
+}
+
+.personagens-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.personagens-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+}

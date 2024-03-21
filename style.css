@@ -5,6 +5,10 @@
     justify-content: space-around;
 }
 
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
 .cabecalho-imagem{
     width: 20%;
 }
@@ -35,6 +39,7 @@
 
 .escola-conteudo{
     width: 35%;
+    font-size: 1.1em;
 
 }
 
@@ -54,4 +59,14 @@
 .personagens-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20%;
+}
+
+.imagem_footer{
+    width: 15%;
+}
+
+footer{
+    background-color: #9770a9;
+    padding: 15px;
+    text-align: center 
 }
